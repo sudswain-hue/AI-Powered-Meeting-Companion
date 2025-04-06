@@ -1,6 +1,8 @@
 # MeetScribe
 MeetScribe is an AI-powered meeting companion that listens to your meeting recordings and provides all the essential details and takeaways you need—summaries, action items, and sentiment analysis, so you never miss out anything.  
 
+![MeetScribe Demo](assets/demo.gif)
+
 ## How to run it:
 1. Open the `MeetScribe.ipynb` in a google colab notebook.
 2. The web app runs with the help of ngrok which requires you to sign up and obtain an authentication token from their [website](https://dashboard.ngrok.com/signup).
